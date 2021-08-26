@@ -9,6 +9,7 @@
   "author": "victor@kenzie.com.br",
   "license": "ISC",
   "devDependencies": {
-    "@cucumber/cucumber": "^7.2.1"
+    "@cucumber/cucumber": "^7.2.1",
+    "cucumber": "^7.0.0-rc.0"
   }
 }
